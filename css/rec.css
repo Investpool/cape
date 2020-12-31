@@ -1,0 +1,35 @@
+.sect{
+	background-color: darkblue;
+	color: white;
+	margin-top: 20px;
+    padding-left: 20px;
+}
+input{
+	width: 100%;
+	color: black;
+}
+.btn-proceed{
+    background-color: green;
+    color: white;
+   ;
+}
+.btn-close{
+    background-color: blue;
+    color: white;
+    align-content: center;
+   
+}
+h3{
+	text-align: center;
+}
+.position{
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+p{
+	text-align: center;
+	padding-top: 10px;
+}
+.nact,.nnect,.bio-a{
+	padding-top: 15px;
+}
